@@ -1,0 +1,51 @@
+{
+    "drivers": [
+        {
+            "name": "abc",
+            "id": "123",
+            "current_location": "x",
+            "loads": [
+                {
+                    "start_location": "u",
+                    "end_location": "y",
+                    "id": "34"
+                },
+                {
+                    "start_location": "y",
+                    "end_location": "x",
+                    "id": "23"
+                }
+            ]
+        },
+        {
+            "name": "efg",
+            "id": "23",
+            "current_location": "y",
+            "loads": [
+                {
+                    "start_location": "y",
+                    "end_location": "x",
+                    "id": "654"
+                }
+            ]
+        },
+        {
+            "name": "ba",
+            "id": "124",
+            "current_location": "s",
+            "load": []
+        }
+    ],
+    "loads": [
+        {
+            "start_location": "x",
+            "end_location": "y",
+            "id": "34"
+        },
+        {
+            "start_location": "y",
+            "end_location": "x",
+            "id": "3"
+        }
+    ]
+}
