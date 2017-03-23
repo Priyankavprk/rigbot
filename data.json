@@ -18,7 +18,7 @@
             ]
         },
         {
-            "name": "efg",
+            "name": "ac",
             "id": "23",
             "current_location": "y",
             "loads": [
@@ -28,12 +28,6 @@
                     "id": "654"
                 }
             ]
-        },
-        {
-            "name": "ba",
-            "id": "124",
-            "current_location": "s",
-            "load": []
         }
     ],
     "loads": [
